@@ -55,6 +55,7 @@
 - Conhecimento Data Transfer Object
 - Conhecimento em Docker
 - Conhecimento em Rest Api
+- Documentação em Swaager PHP
 
 ### Créditos
 
