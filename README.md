@@ -9,7 +9,7 @@
 > Para desenvolver o desafio na versão atual do Laravel Framework 10.*, deve se ter os seguintes requisitos:
 
 - PHP ^8.1 +
-- Banco de dados (O que desejar)
+- Banco de dados (O que desejar) - Preferência PostgreSQL
 
 ### Proposta do desafio
 
