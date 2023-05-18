@@ -17,12 +17,12 @@
 
 > Obtendo os dados do cliente:
 
-- nome
-- data de nascimento
-- cpf
-- endereço
+- Nome
+- Data de nascimento
+- CPF
+- Endereço
   - Podendo utilizar o serviço do ibge ou do brasil api (https://brasilapi.com.br/)
-- se possui CNH
+- Se possui CNH
 
 ### Regra de negócio
 
@@ -36,7 +36,7 @@
 
 ### Realização do desafio
 
-> Cria uma nova branch a partir da main, desenvolva o desafio, suba o desafio na branch criada e abra um pull request.
+> Clonar o repositório e cria uma nova branch a partir da main, desenvolva o desafio, suba o desafio na branch criada e abra um pull request.
 
 ### O que será avaliado?
 
