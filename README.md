@@ -27,6 +27,10 @@
 
 > O candidato terá um prazo de 2 a 3 dias, a partir do dia do envio do desafio, para realização do mesmo.
 
+### Realização do desafio
+
+> Cria uma nova branch a partir da main, desenvolva o desafio, suba o desafio na branch criada e abra um pull request.
+
 ### O que será avaliado?
 
 > Obrigatório:
