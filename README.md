@@ -4,6 +4,13 @@
 > trazendo um desafio moderno e prático para avaliar organização de código, estrutura do projeto e padrão de projeto,
 > caso o candidato tenha conhecimento no assunto.
 
+### Requisitos para o desafio
+
+> Para desenvolver o desafio na versão atual do Laravel Framework 10.*, deve se ter os seguintes requisitos:
+
+- PHP ^8.1 +
+- Banco de dados (O que desejar)
+
 ### Proposta do desafio
 
 > Desenvolva um sistema de compra e venda de carros.
